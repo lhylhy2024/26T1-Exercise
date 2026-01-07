@@ -4,13 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0cbf30bd-2070-4c4f-8714-d1b446b4b713" name="更改" comment="">
-      <change afterPath="$PROJECT_DIR$/Chapter 1/1.5/server.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chapter 1/1.6/demo.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chapter 1/1.7/DB.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chapter 1/1.7/Spider.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chapter 1/1.7/rates.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chapter 1/1.7/server.py" afterDir="false" />
+    <list default="true" id="0cbf30bd-2070-4c4f-8714-d1b446b4b713" name="更改" comment="Chapter1">
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources.local.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/ebdf17d9-0e66-44ec-a866-e6294a4d9d8e.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/ebdf17d9-0e66-44ec-a866-e6294a4d9d8e/storage_v2/_src_/schema/main.uQUzAA.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -36,6 +35,11 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="GitHubPullRequestSearchHistory"><![CDATA[{
@@ -76,7 +80,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
     "RunOnceActivity.typescript.service.memoryLimit.init": "true",
-    "git-widget-placeholder": "master",
+    "git-widget-placeholder": "Project1",
     "last_opened_file_path": "C:/Users/LIN/PycharmProjects/T3Exercises/Chapter 1/1.7",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
@@ -219,11 +223,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.DB" />
         <item itemvalue="Python.Spider (1)" />
-        <item itemvalue="Python.server (3)" />
         <item itemvalue="Python.Spider" />
+        <item itemvalue="Python.server (3)" />
         <item itemvalue="Python.demo" />
+        <item itemvalue="Python.DB" />
       </list>
     </recent_temporary>
   </component>
@@ -250,6 +254,15 @@
       <workItem from="1767746677505" duration="1670000" />
       <workItem from="1767749964228" duration="708000" />
     </task>
+    <task id="LOCAL-00001" summary="Chapter1">
+      <option name="closed" value="true" />
+      <created>1767754937280</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1767754937280</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -265,6 +278,10 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Chapter1" />
+    <option name="LAST_COMMIT_MESSAGE" value="Chapter1" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/T3Exercises$server__1_.coverage" NAME="server (1) 覆盖结果" MODIFIED="1767750256829" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Chapter 1/1.4" />
