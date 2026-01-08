@@ -1,0 +1,251 @@
+ID,mImage,mTitle,mNative,mNickname,mDirectors,mActors,mTime,mCountry,mType,mPoint,mComments
+000001,.jpg,肖申克的救赎,The Shawshank Redemption,月黑高飞(港)  /  刺激1995(台),弗兰克·德拉邦特 Frank Darabont   ,蒂姆·罗宾斯 Tim Robbins /...,1994 , 美国 , 犯罪 剧情,9.6,1241123人
+000002,.jpg,霸王别姬,,再见，我的妾  /  Farewell My Concubine,陈凯歌 Kaige Chen   ,张国荣 Leslie Cheung / 张丰毅 Fengyi Zha...,1993 , 中国大陆 香港 , 剧情 爱情 同性,9.6,914326人
+000003,.jpg,这个杀手不太冷,Léon,杀手莱昂  /  终极追杀令(台),吕克·贝松 Luc Besson   ,让·雷诺 Jean Reno / 娜塔莉·波特曼 ...,1994 , 法国 , 剧情 动作 犯罪,9.4,1140705人
+000004,.jpg,阿甘正传,Forrest Gump,福雷斯特·冈普,Robert Zemeckis   ,Tom Hanks / Robin Wright Penn / Gary Sinise,1994 , 美国 , 剧情 爱情,9.4,978580人
+000005,.jpg,美丽人生,La vita è bella,一个快乐的传说(港)  /  Life Is Beautiful,罗伯托·贝尼尼 Roberto Benigni   ,罗伯托·贝尼尼 Roberto Beni...,1997 , 意大利 , 剧情 喜剧 爱情 战争,9.5,571904人
+000006,.jpg,泰坦尼克号,Titanic,铁达尼号(港 / 台),詹姆斯·卡梅隆 James Cameron   ,莱昂纳多·迪卡普里奥 Leonardo...,1997 , 美国 , 剧情 爱情 灾难,9.3,914275人
+000007,.jpg,千与千寻,千と千尋の神隠し,神隐少女(台)  /  Spirited Away,宫崎骏 Hayao Miyazaki   ,柊瑠美 Rumi Hîragi / 入野自由 Miy...,2001 , 日本 , 剧情 动画 奇幻,9.3,908660人
+000008,.jpg,辛德勒的名单,Schindler's List,舒特拉的名单(港)  /  辛德勒名单,史蒂文·斯皮尔伯格 Steven Spielberg   ,连姆·尼森 Liam Neeson...,1993 , 美国 , 剧情 历史 战争,9.5,513558人
+000009,.jpg,盗梦空间,Inception,潜行凶间(港)  /  全面启动(台),克里斯托弗·诺兰 Christopher Nolan   ,莱昂纳多·迪卡普里奥 Le...,2010 , 美国 英国 , 剧情 科幻 悬疑 冒险,9.3,994109人
+000010,.jpg,机器人总动员,WALL·E,瓦力(台)  /  太空奇兵·威E(港),安德鲁·斯坦顿 Andrew Stanton   ,本·贝尔特 Ben Burtt / 艾丽...,2008 , 美国 , 爱情 科幻 动画 冒险,9.3,659888人
+000011,.jpg,忠犬八公的故事,Hachi: A Dog's Tale,忠犬小八(台)  /  秋田犬八千(港),莱塞·霍尔斯道姆 Lasse Hallström   ,理查·基尔 Richard Ger...,2009 , 美国 英国 , 剧情,9.3,645681人
+000012,.jpg,三傻大闹宝莱坞,3 Idiots,三个傻瓜(台)  /  作死不离3兄弟(港),拉库马·希拉尼 Rajkumar Hirani   ,阿米尔·汗 Aamir Khan / 卡...,2009 , 印度 , 剧情 喜剧 爱情 歌舞,9.2,889275人
+000013,.jpg,海上钢琴师,La leggenda del pianista sull'oceano,声光伴我飞(港)  /  一九零零的传奇,朱塞佩·托纳多雷 Giuseppe Tornatore   ,蒂姆·罗斯 Tim Roth / ...,1998 , 意大利 , 剧情 音乐,9.2,742080人
+000014,.jpg,放牛班的春天,Les choristes,歌声伴我心(港)  /  唱诗班男孩,克里斯托夫·巴拉蒂 Christophe Barratier   ,杰拉尔·朱诺 Géra...,2004 , 法国 瑞士 德国 , 剧情 音乐,9.2,612500人
+000015,.jpg,大话西游之大圣娶亲,西遊記大結局之仙履奇緣,西游记完结篇仙履奇缘  /  齐天大圣西游记,刘镇伟 Jeffrey Lau   ,周星驰 Stephen Chow / 吴孟达 Man Tat Ng...,1995 , 香港 中国大陆 , 喜剧 爱情 奇幻 冒险,9.2,679599人
+000016,.jpg,楚门的世界,The Truman Show,真人Show(港)  /  真人戏,彼得·威尔 Peter Weir   ,金·凯瑞 Jim Carrey / 劳拉·琳妮 Lau...,1998 , 美国 , 剧情 科幻,9.2,660931人
+000017,.jpg,龙猫,となりのトトロ,邻居托托罗  /  邻家的豆豆龙,宫崎骏 Hayao Miyazaki   ,日高法子 Noriko Hidaka / 坂本千夏 Ch...,1988 , 日本 , 动画 奇幻 冒险,9.1,590502人
+000018,.jpg,星际穿越,Interstellar,星际启示录(港)  /  星际效应(台),克里斯托弗·诺兰 Christopher Nolan   ,马修·麦康纳 Matthew Mc...,2014 , 美国 英国 加拿大 冰岛 , 剧情 科幻 冒险,9.2,673846人
+000019,.jpg,教父,The Godfather,Mario Puzo's The Godfather,弗朗西斯·福特·科波拉 Francis Ford Coppola   ,马龙·白兰度 M...,1972 , 美国 , 剧情 犯罪,9.2,449753人
+000020,.jpg,熔炉,도가니,无声呐喊(港)  /  漩涡,黄东赫 Dong-hyuk Hwang   ,孔侑 Yoo Gong / 郑有美 Yu-mi Jeong ...,2011 , 韩国 , 剧情,9.3,384570人
+000021,.jpg,无间道,無間道,Infernal Affairs  /  Mou gaan dou,刘伟强 / 麦兆辉   ,刘德华 / 梁朝伟 / 黄秋生,2002 , 香港 , 剧情 犯罪 悬疑,9.1,558867人
+000022,.jpg,当幸福来敲门,The Pursuit of Happyness,寻找快乐的故事(港)  /  追求快乐,加布里尔·穆奇诺 Gabriele Muccino   ,威尔·史密斯 Will Smith ...,2006 , 美国 , 剧情 传记 家庭,9.0,719097人
+000023,.jpg,触不可及,Intouchables,闪亮人生(港)  /  逆转人生(台),奥利维·那卡什 Olivier Nakache / 艾力克·托兰达 Eric Toledano   主..,.,2011 , 法国 , 剧情 喜剧,9.2,476954人
+000024,.jpg,怦然心动,Flipped,萌动青春  /  青春萌动,罗伯·莱纳 Rob Reiner   ,玛德琳·卡罗尔 Madeline Carroll / 卡...,2010 , 美国 , 剧情 喜剧 爱情,9.0,776734人
+000025,.jpg,疯狂动物城,Zootopia,优兽大都会(港)  /  动物方城市(台),拜伦·霍华德 Byron Howard / 瑞奇·摩尔 Rich Moore   ,金妮弗·...,2016 , 美国 , 喜剧 动画 冒险,9.2,742716人
+000026,.jpg,乱世佳人,Gone with the Wind,飘,维克多·弗莱明 Victor Fleming / 乔治·库克 George Cukor   ,费...,1939 , 美国 , 剧情 历史 爱情 战争,9.2,340228人
+000027,.jpg,蝙蝠侠：黑暗骑士,The Dark Knight,蝙蝠侠前传2：黑暗骑士  /  黑暗骑士(台),克里斯托弗·诺兰 Christopher Nolan   ,克里斯蒂安·贝尔 Christ...,2008 , 美国 英国 , 剧情 动作 科幻 犯罪 惊悚,9.1,449168人
+000028,.jpg,活着,,人生  /  Lifetimes,张艺谋 Yimou Zhang   ,葛优 You Ge / 巩俐 Li Gong / 姜武 Wu Jiang,1994 , 中国大陆 香港 , 剧情 历史 家庭,9.2,369584人
+000029,.jpg,天堂电影院,Nuovo Cinema Paradiso,星光伴我心(港)  /  新天堂乐园(台),朱塞佩·托纳多雷 Giuseppe Tornatore   ,安东娜拉·塔莉 Antonel...,1988 , 意大利 法国 , 剧情 爱情,9.1,372821人
+000030,.jpg,少年派的奇幻漂流,Life of Pi,少年Pi的奇幻漂流  /  漂流少年Pi,李安 Ang Lee   ,苏拉·沙玛 Suraj Sharma / 伊尔凡·可汗 Irrfan...,2012 , 美国 台湾 英国 加拿大 , 剧情 奇幻 冒险,9.0,734377人
+000031,.jpg,十二怒汉,12 Angry Men,12怒汉  /  十二怒汉,Sidney Lumet   ,亨利·方达 Henry Fonda / 马丁·鲍尔萨姆 Marti...,1957 , 美国 , 剧情,9.4,219015人
+000032,.jpg,鬼子来了,,Devils on the Doorstep,姜文 Wen Jiang   ,姜文 Wen Jiang / 香川照之 Teruyuki Kagawa /...,2000 , 中国大陆 , 剧情 历史 战争,9.2,304940人
+000033,.jpg,指环王3：王者无敌,The Lord of the Rings: The Return of the King,魔戒三部曲：王者再临(台 / 港),彼得·杰克逊 Peter Jackson   ,维果·莫腾森 Viggo Mortensen / ...,2003 , 美国 新西兰 , 剧情 动作 奇幻 冒险,9.1,365183人
+000034,.jpg,控方证人,Witness for the Prosecution,雄才伟略  /  情妇,比利·怀尔德 Billy Wilder   ,查尔斯·劳顿 Charles Laughton / ...,1957 , 美国 , 剧情 犯罪 悬疑,9.6,150453人
+000035,.jpg,天空之城,天空の城ラピュタ,Tenkû no shiro Rapyuta  /  Laputa: Castle in the Sky,宫崎骏 Hayao Miyazaki   ,田中真弓 Mayumi Tanaka / 横泽启子 Ke...,1986 , 日本 , 动画 奇幻 冒险,9.0,426511人
+000036,.jpg,搏击俱乐部,Fight Club,搏击会(港)  /  斗阵俱乐部(台),大卫·芬奇 David Fincher   ,爱德华·诺顿 Edward Norton / 布拉...,1999 , 美国 德国 , 剧情 动作 悬疑 惊悚,9.0,480285人
+000037,.jpg,飞屋环游记,Up,冲天救兵(港)  /  天外奇迹(台),彼特·道格特 Pete Docter / 鲍勃·彼德森 Bob Peterson   ,爱德...,2009 , 美国 , 剧情 喜剧 动画 冒险,8.9,648789人
+000038,.jpg,大话西游之月光宝盒,西遊記第壹佰零壹回之月光寶盒,西游记101回月光宝盒  /  齐天大圣东游记,刘镇伟 Jeffrey Lau   ,周星驰 Stephen Chow / 吴孟达 Man Tat Ng...,1995 , 香港 中国大陆 , 喜剧 爱情 奇幻 冒险,8.9,547570人
+000039,.jpg,罗马假日,Roman Holiday,金枝玉叶(港)  /  罗马假期(台),威廉·惠勒 William Wyler   ,奥黛丽·赫本 Audrey Hepburn / 格...,1953 , 美国 , 喜剧 剧情 爱情,9.0,490574人
+000040,.jpg,摔跤吧！爸爸,Dangal,我和我的冠军女儿(台)  /  打死不离3父女(港),涅提·蒂瓦里 Nitesh Tiwari   ,阿米尔·汗 Aamir Khan / 法缇玛...,2016 , 印度 , 剧情 传记 运动 家庭,9.1,666945人
+000041,.jpg,窃听风暴,Das Leben der Anderen,他人的生活  /  别人的生活,弗洛里安·亨克尔·冯·多纳斯马 Florian Henckel von Donnersmarck   ..,.,2006 , 德国 , 剧情 悬疑,9.1,291367人
+000042,.jpg,哈尔的移动城堡,ハウルの動く城,呼啸山城  /  霍尔的移动城堡,宫崎骏 Hayao Miyazaki   ,倍赏千惠子 Chieko Baishô / 木村拓...,2004 , 日本 , 动画 奇幻 冒险,8.9,464571人
+000043,.jpg,辩护人,변호인,逆权大状(港)  /  正义辩护人(台),杨宇硕 Woo-seok Yang   ,宋康昊 Kang-ho Song / 吴达洙 Dal-su O...,2013 , 韩国 , 剧情,9.2,288609人
+000044,.jpg,闻香识女人,Scent of a Woman,女人香  /  女人的芳香,马丁·布莱斯 Martin Brest   ,阿尔·帕西诺 Al Pacino / 克里斯...,1992 , 美国 , 剧情,9.0,416533人
+000045,.jpg,两杆大烟枪,Lock Stock and Two Smoking Barrels,够姜四小强(港)  /  两根枪管(台),Guy Ritchie   ,Jason Flemyng / Dexter Fletcher / Nick Moran,1998 , 英国 , 剧情 喜剧 犯罪,9.1,328902人
+000046,.jpg,飞越疯人院,One Flew Over the Cuckoo's Nest,飞越杜鹃窝(台)  /  飞越喜鹊巢,米洛斯·福尔曼 Miloš Forman   ,杰克·尼科尔森 Jack Nichols...,1975 , 美国 , 剧情,9.0,332801人
+000047,.jpg,死亡诗社,Dead Poets Society,暴雨骄阳(港)  /  春风化雨(台),彼得·威尔 Peter Weir   ,罗宾·威廉姆斯 Robin Williams / 罗伯...,1989 , 美国 , 剧情,9.0,356795人
+000048,.jpg,V字仇杀队,V for Vendetta,V煞(港)  /  V怪客(台),詹姆斯·麦克特格 James McTeigue   ,娜塔莉·波特曼 Natalie Por...,2005 , 美国 英国 德国 , 剧情 动作 科幻 惊悚,8.8,540699人
+000049,.jpg,指环王2：双塔奇兵,The Lord of the Rings: The Two Towers,魔戒二部曲：双城奇谋  /  指环王II：双塔,彼得·杰克逊 Peter Jackson   ,伊利亚·伍德 Elijah Wood / 西恩...,2002 , 美国 新西兰 , 剧情 动作 奇幻 冒险,9.0,342610人
+000050,.jpg,海豚湾,The Cove,血色海湾(台)  /  海湾,Louie Psihoyos   ,John Chisholm / Mandy-Rae Cruikshank / Char...,2009 , 美国 , 纪录片,9.3,219062人
+000051,.jpg,教父2,The Godfather: Part Ⅱ,教父续集  /  教父II,弗朗西斯·福特·科波拉 Francis Ford Coppola   ,阿尔·帕西诺 A...,1974 , 美国 , 剧情 犯罪,9.1,243400人
+000052,.jpg,指环王1：魔戒再现,The Lord of the Rings: The Fellowship of the Ring,魔戒首部曲：魔戒现身  /  指环王I：护戒使者,彼得·杰克逊 Peter Jackson   ,伊利亚·伍德 Elijah Wood / 西恩...,2001 , 新西兰 美国 , 剧情 动作 奇幻 冒险,8.9,383586人
+000053,.jpg,饮食男女,飲食男女,Eat Drink Man Woman,李安 Ang Lee   ,郎雄 Sihung Lung / 杨贵媚 Kuei-Mei Yang / 吴...,1994 , 台湾 美国 , 剧情 家庭,9.1,263813人
+000054,.jpg,美丽心灵,A Beautiful Mind,有你终生美丽(港)  /  美丽境界(台),朗·霍华德 Ron Howard   ,罗素·克劳 Russell Crowe / 艾德·哈...,2001 , 美国 , 传记 剧情,8.9,380188人
+000055,.jpg,素媛,소원,许愿  /  希望：为爱重生(台),李濬益 Jun-ik Lee   ,薛景求 Kyung-gu Sol / 严志媛 Ji-won Uhm ...,2013 , 韩国 , 剧情,9.1,250479人
+000056,.jpg,情书,Love Letter,When I Close My Eyes  /  Letters of Love,岩井俊二 Shunji Iwai   ,中山美穗 Miho Nakayama / 丰川悦司 Ets...,1995 , 日本 , 剧情 爱情,8.8,471145人
+000057,.jpg,狮子王,The Lion King,狮子王3D,Roger Allers / 罗伯·明可夫 Rob Minkoff   ,乔纳森·泰勒·托马...,1994 , 美国 , 剧情 动画 冒险 歌舞 家庭,8.9,362047人
+000058,.jpg,末代皇帝,The Last Emperor,末代皇帝溥仪(港),贝纳尔多·贝托鲁奇 Bernardo Bertolucci   ,尊龙 John Lone / 陈...,1987 , 英国 意大利 中国大陆 法国 美国 , 剧情 传记 历史,9.1,258262人
+000059,.jpg,钢琴家,The Pianist,战地琴声(台)  /  战地琴人,罗曼·波兰斯基 Roman Polanski   ,艾德里安·布洛迪 Adrien Brod...,2002 , 法国 德国 英国 波兰 , 剧情 传记 历史 战争 音乐,9.1,250821人
+000060,.jpg,美国往事,Once Upon a Time in America,四海兄弟(台)  /  义薄云天(港),赛尔乔·莱翁内 Sergio Leone   ,罗伯特·德尼罗 Robert De Niro ...,1984 , 意大利 美国 , 犯罪 剧情,9.1,215943人
+000061,.jpg,小鞋子,بچههای آسمان,天堂的孩子  /  小童鞋,马基德·马基迪 Majid Majidi   ,Amir Farrokh Hashemian / 默罕...,1997 , 伊朗 , 剧情 家庭 儿童,9.2,182242人
+000062,.jpg,七宗罪,Se7en,火线追缉令(台)  /  7宗罪,大卫·芬奇 David Fincher   ,摩根·弗里曼 Morgan Freeman / 布...,1995 , 美国 , 剧情 犯罪 悬疑 惊悚,8.8,523837人
+000063,.jpg,本杰明·巴顿奇事,The Curious Case of Benjamin Button,奇幻逆缘(港)  /  班杰明的奇幻旅程(台),大卫·芬奇 David Fincher   ,凯特·布兰切特 Cate Blanchett / ...,2008 , 美国 , 剧情 爱情 奇幻,8.8,489812人
+000064,.jpg,被嫌弃的松子的一生,嫌われ松子の一生,花样奇缘(港)  /  令人讨厌的松子的一生(台),中岛哲也 Tetsuya Nakashima   ,中谷美纪 Miki Nakatani / 瑛太 E...,2006 , 日本 , 剧情 歌舞,8.9,378270人
+000065,.jpg,致命魔术,The Prestige,顶尖对决(台)  /  死亡魔法(港),克里斯托弗·诺兰 Christopher Nolan   ,休·杰克曼 Hugh Jackman...,2006 , 美国 英国 , 剧情 悬疑 惊悚,8.8,428836人
+000066,.jpg,西西里的美丽传说,Malèna,真爱伴我行(台)  /  玛莲娜,朱塞佩·托纳多雷 Giuseppe Tornatore   ,莫妮卡·贝鲁奇 Monica ...,2000 , 意大利 美国 , 剧情 战争 情色,8.8,456254人
+000067,.jpg,黑客帝国,The Matrix,廿二世纪杀人网络(港)  /  骇客任务(台),安迪·沃卓斯基 Andy Wachowski / 拉娜·沃卓斯基 Lana Wachowski   主..,.,1999 , 美国 澳大利亚 , 动作 科幻,8.9,360606人
+000068,.jpg,让子弹飞,,让子弹飞一会儿  /  火烧云,姜文 Wen Jiang   ,姜文 Wen Jiang / 葛优 You Ge / 周润发 Yun-F...,2010 , 中国大陆 香港 , 剧情 喜剧 动作 西部,8.7,797892人
+000069,.jpg,看不见的客人,Contratiempo,佈局(台)  /  死无对证(港),奥里奥尔·保罗 Oriol Paulo   ,马里奥·卡萨斯 Mario Casas / 阿...,2016 , 西班牙 , 剧情 犯罪 悬疑 惊悚,8.7,490333人
+000070,.jpg,拯救大兵瑞恩,Saving Private Ryan,雷霆救兵(港)  /  抢救雷恩大兵(台),史蒂文·斯皮尔伯格 Steven Spielberg   ,汤姆·汉克斯 Tom Hanks...,1998 , 美国 , 剧情 历史 战争,8.9,309191人
+000071,.jpg,天使爱美丽,Le fabuleux destin d'Amélie Poulain,艾蜜莉的异想世界(台)  /  天使艾米莉,让-皮埃尔·热内 Jean-Pierre Jeunet   ,奥黛丽·塔图 Audrey Tau...,2001 , 法国 德国 , 喜剧 爱情,8.7,581214人
+000072,.jpg,音乐之声,The Sound of Music,仙乐飘飘处处闻(港)  /  真善美(台),Robert Wise   ,朱丽·安德鲁斯 Julie Andrews / 克里斯托弗·普...,1965 , 美国 , 剧情 传记 爱情 歌舞,8.9,287084人
+000073,.jpg,低俗小说,Pulp Fiction,黑色追緝令(台)  /  危险人物(港),昆汀·塔伦蒂诺 Quentin Tarantino   ,约翰·特拉沃尔塔 John Tra...,1994 , 美国 , 剧情 喜剧 犯罪,8.8,420254人
+000074,.jpg,大闹天宫,,大闹天宫 上下集  /  The Monkey King,万籁鸣 Laiming Wan / 唐澄 Cheng  Tang   ,邱岳峰 Yuefeng Qiu /...,1961(中国大陆) , 1964(中国大陆) , 1978(中国大陆) ,9.3,142037人
+000075,.jpg,勇敢的心,Braveheart,惊世未了缘(港)  /  梅尔吉勃逊之英雄本色(台),梅尔·吉布森 Mel Gibson   ,梅尔·吉布森 Mel Gibson / 苏菲·玛...,1995 , 美国 , 动作 传记 剧情 历史 战争,8.8,348303人
+000076,.jpg,剪刀手爱德华,Edward Scissorhands,幻海奇缘(港)  /  剪刀手爱德华,Tim Burton   ,约翰尼·德普 Johnny Depp / 薇诺娜·瑞德 Winona ...,1990 , 美国 , 剧情 奇幻 爱情,8.7,591815人
+000077,.jpg,哈利·波特与魔法石,Harry Potter and the Sorcerer's Stone,哈利波特1：神秘的魔法石(港 / 台),Chris Columbus   ,Daniel Radcliffe / Emma Watson / Rupert Grint,2001 , 美国 英国 , 奇幻 冒险,8.8,365184人
+000078,.jpg,沉默的羔羊,The Silence of the Lambs,沉默的羔羊,乔纳森·戴米 Jonathan Demme   ,朱迪·福斯特 Jodie Foster / 安...,1991 , 美国 , 剧情 犯罪 惊悚,8.8,428290人
+000079,.jpg,蝴蝶效应,The Butterfly Effect,蝴蝶效应,埃里克·布雷斯 Eric Bress / J·麦基·格鲁伯 J. Mackye Gruber   主..,.,2004 , 美国 加拿大 , 剧情 悬疑 科幻 惊悚,8.7,471539人
+000080,.jpg,春光乍泄,春光乍洩,一起快乐  /  Happy Together,王家卫 Kar Wai Wong   ,张国荣 Leslie Cheung / 梁朝伟 Tony Leu...,1997 , 香港 日本 韩国 , 剧情 爱情 同性,8.9,310563人
+000081,.jpg,心灵捕手,Good Will Hunting,骄阳似我(港)  /  心灵捕手,格斯·范·桑特 Gus Van Sant   ,马特·达蒙 Matt Damon / 罗宾·...,1997 , 美国 , 剧情,8.8,342235人
+000082,.jpg,入殓师,おくりびと,礼仪师之奏鸣曲(港)  /  礼仪师(台),泷田洋二郎 Yôjirô Takita   ,本木雅弘 Masahiro Motoki / ...,2008 , 日本 , 剧情,8.8,367013人
+000083,.jpg,猫鼠游戏,Catch Me If You Can,逍遥法外  /  神鬼交锋(台),史蒂文·斯皮尔伯格 Steven Spielberg   ,莱昂纳多·迪卡普里奥 L...,2002 , 美国 加拿大 , 传记 犯罪 剧情,8.8,312006人
+000084,.jpg,布达佩斯大饭店,The Grand Budapest Hotel,布达佩斯大酒店(港)  /  欢迎来到布达佩斯大饭店(台),韦斯·安德森 Wes Anderson   ,拉尔夫·费因斯 Ralph Fiennes / ...,2014 , 美国 德国 英国 , 剧情 喜剧 冒险,8.8,412951人
+000085,.jpg,禁闭岛,Shutter Island,不赦岛(港)  /  隔离岛(台),Martin Scorsese   ,莱昂纳多·迪卡普里奥 Leonardo DiCaprio / ...,2010 , 美国 , 剧情 悬疑 惊悚,8.7,453792人
+000086,.jpg,玛丽和马克思,Mary and Max,巧克力情缘(台)  /  同是天涯寂寞客,亚当·艾略特 Adam Elliot   ,托妮·科莱特 Toni Collette / 菲利...,2009 , 澳大利亚 , 剧情 动画,8.9,265479人
+000087,.jpg,阳光灿烂的日子,,In the Heat of the Sun,姜文 Wen Jiang   ,夏雨 Yu Xia / 宁静 Jing Ning / 陶虹 Hong Tao,1994 , 中国大陆 香港 , 剧情,8.8,334513人
+000088,.jpg,幽灵公主,もののけ姫,魔法公主  /  幽灵少女,宫崎骏 Hayao Miyazaki   ,松田洋治 Yôji Matsuda / 石田百合...,1997 , 日本 , 动画 奇幻 冒险,8.8,288292人
+000089,.jpg,第六感,The Sixth Sense,灵异第六感  /  鬼眼,M·奈特·沙马兰 M. Night Shyamalan   ,布鲁斯·威利斯 Bruce Wi...,1999 , 美国 , 剧情 悬疑 惊悚,8.8,286565人
+000090,.jpg,狩猎,Jagten,谎言的烙印(台)  /  诬网(港),托马斯·温特伯格 Thomas Vinterberg   ,麦斯·米科尔森 Mads Mik...,2012 , 丹麦 瑞典 , 剧情,9.1,169324人
+000091,.jpg,重庆森林,重慶森林,Chungking Express,王家卫 Kar Wai Wong   ,林青霞 Brigitte Lin / 金城武 Takeshi K...,1994 , 香港 , 剧情 爱情,8.7,407843人
+000092,.jpg,穿条纹睡衣的男孩,The Boy in the Striped Pajamas,穿条纹衣服的男孩  /  穿条纹衣的男孩,马克·赫门 Mark Herman   ,阿沙·巴特菲尔德 Asa Butterfield / ...,2008 , 英国 美国 , 剧情 战争,9.0,200313人
+000093,.jpg,致命ID,Identity,杀人游戏  /  致命身份,James Mangold   ,John Cusack / Ray Liotta / Amanda Peet,2003 , 美国 , 剧情 悬疑 惊悚,8.7,394741人
+000094,.jpg,断背山,Brokeback Mountain,断臂山  /  BBM,李安 Ang Lee   ,希斯·莱杰 Heath Ledger / 杰克·吉伦哈尔 Jake...,2005 , 美国 加拿大 , 剧情 爱情 同性 家庭,8.7,391667人
+000095,.jpg,加勒比海盗,Pirates of the Caribbean: The Curse of the Black Pearl,加勒比海盗1：黑珍珠号的诅咒  /  神鬼奇航：鬼盗船魔咒(台),戈尔·维宾斯基 Gore Verbinski   ,约翰尼·德普 Johnny Depp / ...,2003 , 美国 , 动作 冒险 奇幻,8.6,436831人
+000096,.jpg,阿凡达,Avatar,天神下凡(港)  /  化身,詹姆斯·卡梅隆 James Cameron   ,萨姆·沃辛顿 Sam Worthington ...,2009 , 美国 英国 , 动作 战争 科幻 冒险,8.6,653987人
+000097,.jpg,摩登时代,Modern Times,The Masses  /  Temps modernes Les,查理·卓别林 Charles Chaplin   ,查理·卓别林 Charles Chaplin ...,1936 , 美国 , 喜剧 剧情 爱情,9.2,118952人
+000098,.jpg,大鱼,Big Fish,大鱼奇缘(港)  /  大智若鱼(台),蒂姆·波顿 Tim Burton   ,伊万·麦克格雷格 Ewan McGregor / 阿...,2003 , 美国 , 剧情 家庭 奇幻 冒险,8.7,305279人
+000099,.jpg,告白,,自白  /  母亲,中岛哲也 Tetsuya Nakashima   ,松隆子 Takako Matsu / 冈田将生 ...,2010 , 日本 , 剧情 惊悚,8.7,413456人
+000100,.jpg,寻梦环游记,Coco,可可夜总会(台)  /  玩转极乐园(港),李·昂克里奇 Lee Unkrich / 阿德里安·莫利纳 Adrian Molina   ,...,2017 , 美国 , 喜剧 动画 奇幻 音乐,9.0,620370人
+000101,.jpg,一一,,Yi yi  /  Yi yi: A One and a Two,杨德昌 Edward Yang   ,吴念真 / 李凯莉 Kelly Lee / 金燕玲 Elai...,2000 , 台湾 日本 , 剧情 爱情 家庭,9.0,186484人
+000102,.jpg,射雕英雄传之东成西就,射鵰英雄傳之東成西就,东成西就  /  大英雄 (日本),刘镇伟 Jeffrey Lau   ,梁朝伟 Tony Leung Chiu Wai / 林青霞 Bri...,1993 , 香港 , 喜剧 古装,8.7,333297人
+000103,.jpg,甜蜜蜜,,Comrades: Almost a Love Story,陈可辛 Peter Chan   ,黎明 Leon Lai / 张曼玉 Maggie Cheung / ...,1996 , 香港 , 剧情 爱情,8.8,273473人
+000104,.jpg,阳光姐妹淘,써니,阳光姊妹淘(港)  /  桑尼,姜炯哲 Hyeong-Cheol Kang   ,沈恩京 Eun-kyung Shim / 闵孝琳 Hy...,2011 , 韩国 , 剧情 喜剧,8.8,328363人
+000105,.jpg,消失的爱人,Gone Girl,失踪的女孩  /  失踪女孩,大卫·芬奇 David Fincher   ,本·阿弗莱克 Ben Affleck / 罗莎蒙...,2014 , 美国 , 剧情 犯罪 悬疑 惊悚,8.7,446354人
+000106,.jpg,爱在黎明破晓前,Before Sunrise,情留半天(港)  /  爱在黎明破晓时(台),理查德·林克莱特 Richard Linklater   ,伊桑·霍克 Ethan Hawke ...,1995 , 美国 奥地利 瑞士 , 剧情 爱情,8.7,273924人
+000107,.jpg,上帝之城,Cidade de Deus,无主之城 (港)  /  无法无天 (台),Kátia Lund / Fernando Meirelles   ,Alexandre Rodrigues / Lea...,2002 , 巴西 法国 , 犯罪 剧情,8.9,181261人
+000108,.jpg,喜剧之王,喜劇之王,King of Comedy,周星驰 Stephen Chow / 李力持 Lik-Chi Lee   ,周星驰 Stephen Ch...,1999 , 香港 , 喜剧 剧情 爱情,8.6,406518人
+000109,.jpg,小森林 夏秋篇,リトル・フォレスト 夏・秋,小森食光 / 夏秋篇(台),森淳一 Junichi Mori   ,桥本爱 Ai Hashimoto / 三浦贵大 Takahir...,2014 , 日本 , 剧情,8.9,180703人
+000110,.jpg,侧耳倾听,耳をすませば,心之谷  /  梦幻街少女,近藤喜文 Yoshifumi Kondo   ,本名阳子 Youko Honna / 小林桂树 K...,1995 , 日本 , 剧情 爱情 动画,8.8,213964人
+000111,.jpg,风之谷,風の谷のナウシカ,风谷少女  /  Kaze no tani no Naushika,宫崎骏 Hayao Miyazaki   ,岛本须美 Sumi Shimamoto / 松田洋治 Y...,1984 , 日本 , 动画 奇幻 冒险,8.8,213538人
+000112,.jpg,恐怖直播,더 테러 라이브,死亡“动”新闻(港)  /  恐怖攻击直播(台),金秉祐 Byeong-woo Kim   ,河正宇 Jung-woo Ha / 李璟荣 Kyeong-y...,2013 , 韩国 , 剧情 犯罪 悬疑,8.7,291016人
+000113,.jpg,倩女幽魂,,倩女幽魂(87版)  /  A Chinese Ghost Story,程小东 Siu-Tung Ching   ,张国荣 Leslie Cheung / 王祖贤 Joey W...,1987 , 香港 , 剧情 爱情 武侠 古装,8.7,330055人
+000114,.jpg,超脱,Detachment,人间师格(台),托尼·凯耶 Tony Kaye   ,艾德里安·布洛迪 Adrien Brody / 马西...,2011 , 美国 , 剧情,8.8,218524人
+000115,.jpg,红辣椒,パプリカ,盗梦侦探  /  帕布莉卡,今敏 Satoshi Kon   ,林原惠美 Megumi Hayashibara / 古谷彻 T...,2006 , 日本 , 动画 悬疑 科幻 惊悚,8.9,172396人
+000116,.jpg,爱在日落黄昏时,Before Sunset,日落巴黎(港)  /  爱在日落巴黎时(台),理查德·林克莱特 Richard Linklater   ,伊桑·霍克 Ethan Hawke ...,2004 , 美国 , 剧情 爱情,8.8,241670人
+000117,.jpg,菊次郎的夏天,菊次郎の夏,Kikujirô no natsu  /  菊次郎的夏天,北野武 Takeshi Kitano   ,北野武 Takeshi Kitano / 关口雄介 Yus...,1999 , 日本 , 剧情 喜剧,8.8,234078人
+000118,.jpg,驯龙高手,How to Train Your Dragon,驯龙记(港),迪恩·德布洛斯 Dean DeBlois / 克里斯·桑德斯 Chris Sanders   ,主演:...,2010 , 美国 , 喜剧 动画 奇幻 冒险,8.7,354219人
+000119,.jpg,幸福终点站,The Terminal,机场客运站(港)  /  航站情缘(台),史蒂文·斯皮尔伯格 Steven Spielberg   ,汤姆·汉克斯 Tom Hanks...,2004 , 美国 , 喜剧 剧情 爱情,8.7,270037人
+000120,.jpg,神偷奶爸,Despicable Me,卑鄙的我  /  坏蛋奖门人(港),皮艾尔·柯芬 Pierre Coffin / 克里斯·雷纳德 Chris Renaud   ,...,2010 , 美国 法国 , 喜剧 动画 冒险,8.5,478080人
+000121,.jpg,借东西的小人阿莉埃蒂,借りぐらしのアリエッティ,借物少女艾莉缇(台)  /  借东西的小矮人亚莉亚蒂(港),米林宏昌 Hiromasa Yonebayashi   ,志田未来 Mirai Shida / 神木...,2010 , 日本 , 动画 奇幻 冒险,8.7,264195人
+000122,.jpg,杀人回忆,살인의 추억,谋杀回忆  /  杀手回忆录,奉俊昊 Joon-ho Bong   ,宋康昊 Kang-ho Song / 金相庆 Sang-kyun...,2003 , 韩国 , 犯罪 剧情 悬疑 惊悚,8.7,255428人
+000123,.jpg,请以你的名字呼唤我,Call Me by Your Name,以你的名字呼唤我(港 / 台),卢卡·圭达尼诺 Luca Guadagnino   ,蒂莫西·柴勒梅德 Timothée ...,2017 , 意大利 法国 巴西 美国 , 剧情 爱情 同性,8.8,247015人
+000124,.jpg,哈利·波特与死亡圣器(下),Harry Potter and the Deathly Hallows: Part 2,哈利波特7：死神的圣物2(港 / 台),大卫·叶茨 David Yates   ,丹尼尔·雷德克里夫 Daniel Radcliffe...,2011 , 美国 英国 , 剧情 悬疑 奇幻 冒险,8.7,342748人
+000125,.jpg,七武士,七人の侍,七侠四义(港)  /  The Seven Samurai,黑泽明 Akira Kurosawa   ,三船敏郎 Toshirô Mifune / 志村乔 ...,1954 , 日本 , 动作 冒险 剧情,9.2,95248人
+000126,.jpg,岁月神偷,歲月神偷,1969太空漫游  /  Echoes Of The Rainbow,罗启锐 Alex Law   ,吴君如 Sandra Ng / 任达华 Simon Yam / 钟绍...,2010 , 香港 中国大陆 , 剧情 家庭,8.6,355013人
+000127,.jpg,小森林 冬春篇,リトル・フォレスト 冬・春,小森食光 / 冬春篇(台),森淳一 Junichi Mori   ,桥本爱 Ai Hashimoto / 三浦贵大 Takahir...,2015 , 日本 , 剧情,9.0,156728人
+000128,.jpg,怪兽电力公司,Monsters Inc.,怪兽公司(港)  /  怪物公司,彼特·道格特 Pete Docter / 大卫·斯沃曼 David Silverman   ,约...,2001 , 美国 , 儿童 喜剧 动画 奇幻 冒险,8.6,304583人
+000129,.jpg,萤火虫之墓,火垂るの墓,再见萤火虫(港)  /  萤火挽歌,高畑勋 Isao Takahata   ,辰己努 / 白石绫乃 / 志乃原良子,1988 , 日本 , 动画 剧情 战争,8.7,241131人
+000130,.jpg,谍影重重3,The Bourne Ultimatum,叛谍追击3：最后通牒(港)  /  神鬼认证：最后通牒 (台),保罗·格林格拉斯 Paul Greengrass   ,马特·达蒙 Matt Damon / ...,2007 , 美国 德国 , 动作 悬疑 惊悚,8.7,220107人
+000131,.jpg,电锯惊魂,Saw,夺魂锯(台)  /  恐惧斗室(港),詹姆斯·温 James Wan   ,雷·沃纳尔 Leigh Whannell / 加利·艾...,2004 , 美国 , 悬疑 惊悚 恐怖,8.7,240253人
+000132,.jpg,7号房的礼物,7번방의 선물,戆爸的礼物(港)  /  7号囚房的礼物,李焕庆 Hwan-kyeong Lee   ,柳承龙 Seung-yong Ryoo / 朴信惠 Shi...,2013 , 韩国 , 剧情 喜剧 家庭,8.7,224136人
+000133,.jpg,东邪西毒,東邪西毒,Ashes of Time,王家卫 Kar Wai Wong   ,张国荣 Leslie Cheung / 林青霞 Brigitte...,1994 , 香港 台湾 , 剧情 动作 爱情 武侠 古装,8.6,309515人
+000134,.jpg,喜宴,囍宴,The Wedding Banquet,李安 Ang Lee   ,赵文瑄 Winston Chao / 郎雄 Sihung Lung / 归亚...,1993 , 台湾 美国 , 剧情 喜剧 爱情 同性 家庭,8.8,169612人
+000135,.jpg,疯狂原始人,The Croods,古鲁家族(港 / 台),科克·德·米科 Kirk De Micco / 克里斯·桑德斯 Chris Sanders   ,主演...,2013 , 美国 , 喜剧 动画 冒险,8.7,445214人
+000136,.jpg,贫民窟的百万富翁,Slumdog Millionaire,贫民百万富翁(台)  /  一百万零一夜(港),丹尼·鲍尔 Danny Boyle / 洛芙琳·坦丹 Loveleen Tandan   ,戴夫...,2008 , 英国 美国 , 剧情 爱情,8.5,451405人
+000137,.jpg,萤火之森,蛍火の杜へ,萤火之社  /  Hotarubi no mori e,大森贵弘 Takahiro Omori   ,佐仓绫音 Ayane Sakura / 内山昂辉 K...,2011 , 日本 , 剧情 爱情 动画 奇幻,8.8,206878人
+000138,.jpg,记忆碎片,Memento,失忆  /  记忆拼图(台),克里斯托弗·诺兰 Christopher Nolan   ,盖·皮尔斯 Guy Pearce /...,2000 , 美国 , 犯罪 剧情 悬疑 惊悚,8.6,330919人
+000139,.jpg,黑天鹅,Black Swan,夺命黑天鹅  /  霸王别鹅(豆友译名),达伦·阿罗诺夫斯基 Darren Aronofsky   ,娜塔莉·波特曼 Natalie...,2010 , 美国 , 剧情 惊悚,8.5,488855人
+000140,.jpg,真爱至上,Love Actually,爱是您，爱是我(台)  /  真的恋爱了(港),理查德·柯蒂斯 Richard Curtis   ,休·格兰特 Hugh Grant / 柯林...,2003 , 英国 美国 法国 , 喜剧 剧情 爱情,8.5,372789人
+000141,.jpg,超能陆战队,Big Hero 6,大英雄联盟(港)  /  大英雄天团(台),唐·霍尔 Don Hall / 克里斯·威廉姆斯 Chris Williams   ,斯科特...,2014 , 美国 , 喜剧 动作 科幻 动画 冒险,8.6,465833人
+000142,.jpg,英雄本色,,A Better Tomorrow  /  Gangland Boss,吴宇森 John Woo   ,周润发 Yun-Fat Chow / 狄龙 Lung Ti / 张国...,1986 , 香港 , 动作 犯罪,8.6,222479人
+000143,.jpg,唐伯虎点秋香,唐伯虎點秋香,Flirting Scholar,李力持 Lik-Chi Lee   ,周星驰 Stephen Chow / 巩俐 Li Gong / 陈...,1993 , 香港 , 喜剧 爱情 古装,8.5,434662人
+000144,.jpg,蝙蝠侠：黑暗骑士崛起,The Dark Knight Rises,蝙蝠侠前传3：黑暗骑士崛起  /  黑暗骑士：黎明升起(台),克里斯托弗·诺兰 Christopher Nolan   ,克里斯蒂安·贝尔 Christ...,2012 , 美国 英国 , 剧情 动作 科幻 犯罪 惊悚,8.6,354272人
+000145,.jpg,雨人,Rain Man,手足情未了  /  手足情深,巴瑞·莱文森 Barry Levinson   ,达斯汀·霍夫曼 Dustin Hoffman ...,1988 , 美国 , 剧情,8.7,239656人
+000146,.jpg,心迷宫,,殡棺  /  The Coffin in the Mountain,忻钰坤 Yukun Xin   ,霍卫民 Weimin Huo / 王笑天 Xiaotian Wang ...,2014 , 中国大陆 , 剧情 犯罪 悬疑,8.7,230381人
+000147,.jpg,卢旺达饭店,Hotel Rwanda,卢安达饭店(台),特瑞·乔治 Terry George   ,唐·钱德尔 Don Cheadle / 苏菲·奥...,2004 , 英国 南非 意大利 美国 , 剧情 历史 战争,8.9,143820人
+000148,.jpg,傲慢与偏见,Pride & Prejudice,傲慢与偏见2005  /  Pride And Prejudice,乔·怀特 Joe Wright   ,凯拉·奈特莉 Keira Knightley / 马修·...,2005 , 法国 英国 美国 , 剧情 爱情,8.5,367483人
+000149,.jpg,荒蛮故事,Relatos salvajes,蛮荒故事  /  生命中最抓狂的小事(台),达米安·斯兹弗隆 Damián Szifron   ,达里奥·葛兰帝内提 Darío...,2014 , 阿根廷 西班牙 , 剧情 喜剧 犯罪,8.8,184683人
+000150,.jpg,海洋,Océans,Oceans  /  海洋,雅克·贝汉 Jacques Perrin / 雅克·克鲁奥德 Jacques Cluzaud   ,主演:...,2009 , 法国 瑞士 西班牙 美国 阿联酋 , 纪录片,9.0,108335人
+000151,.jpg,纵横四海,緃横四海,Once a Thief,吴宇森 John Woo   ,周润发 Yun-Fat Chow / 张国荣 Leslie Cheung...,1991 , 香港 , 剧情 喜剧 动作 犯罪,8.7,187377人
+000152,.jpg,无人知晓,誰も知らない,谁知赤子心(港)  /  无人知晓的夏日清晨(台),是枝裕和 Hirokazu Koreeda   ,柳乐优弥 Yûya Yagira / 北浦爱...,2004 , 日本 , 剧情,9.1,97099人
+000153,.jpg,时空恋旅人,About Time,时空旅恋人  /  回到最爱的一天(港),理查德·柯蒂斯 Richard Curtis   ,多姆纳尔·格利森 Domhnall Gl...,2013 , 英国 , 剧情 爱情 奇幻,8.7,252929人
+000154,.jpg,海边的曼彻斯特,Manchester by the Sea,情系海边之城(港)  /  海曼,肯尼斯·罗纳根 Kenneth Lonergan   ,卡西·阿弗莱克 Casey Affle...,2016 , 美国 , 剧情 家庭,8.6,252397人
+000155,.jpg,教父3,The Godfather: Part III,教父第三集  /  教父 III,弗朗西斯·福特·科波拉 Francis Ford Coppola   ,阿尔·帕西诺 A...,1990 , 美国 , 剧情 犯罪,8.8,160909人
+000156,.jpg,玩具总动员3,Toy Story 3,反斗奇兵3(港)  /  玩具的故事3,李·昂克里奇 Lee Unkrich   ,汤姆·汉克斯 Tom Hanks / 蒂姆·艾...,2010 , 美国 , 喜剧 动画 奇幻 冒险,8.8,230228人
+000157,.jpg,完美的世界,A Perfect World,强盗保镳,克林特·伊斯特伍德 Clint Eastwood   ,凯文·科斯特纳 Kevin Cos...,1993 , 美国 , 剧情 犯罪,9.0,100962人
+000158,.jpg,花样年华,花樣年華,In the Mood for Love,王家卫 Kar Wai Wong   ,梁朝伟 Tony Leung Chiu Wai / 张曼玉 Ma...,2000 , 香港 , 剧情 爱情,8.6,294412人
+000159,.jpg,虎口脱险,La grande vadrouille,横冲直撞出重围(港)  /  大進擊(台),杰拉尔·乌里 Gérard Oury   ,路易·德·菲耐斯 Louis de Funès...,1966 , 法国 英国 , 喜剧 战争,8.9,124418人
+000160,.jpg,血战钢锯岭,Hacksaw Ridge,钢锯岭  /  钢铁英雄(台),梅尔·吉布森 Mel Gibson   ,安德鲁·加菲尔德 Andrew Garfield /...,2016 , 美国 澳大利亚 , 剧情 传记 历史 战争,8.7,396908人
+000161,.jpg,达拉斯买家俱乐部,Dallas Buyers Club,续命枭雄(港)  /  药命俱乐部(台),让-马克·瓦雷 Jean-Marc Vallée   ,马修·麦康纳 Matthew McCon...,2013 , 美国 , 剧情 传记 同性,8.7,227528人
+000162,.jpg,恋恋笔记本,The Notebook,深情日记  /  写我情真,尼克·卡索维茨 Nick Cassavetes   ,瑞恩·高斯林 Ryan Gosling /...,2004 , 美国 , 剧情 爱情,8.5,337818人
+000163,.jpg,燃情岁月,Legends of the Fall,秋日传奇  /  真爱一世情(台),爱德华·兹威克 Edward Zwick   ,安东尼·霍普金斯 Anthony Hopki...,1994 , 美国 , 剧情 爱情 西部 家庭,8.7,167766人
+000164,.jpg,二十二,,Twenty Two  /  22,郭柯 Ke Guo   ,主演:,2015 , 中国大陆 , 纪录片,8.7,136594人
+000165,.jpg,雨中曲,Singin' in the Rain,雨中情  /  万花嬉春,Stanley Donen / Gene Kelly   ,Gene Kelly / Donald O'Connor / ...,1952 , 美国 , 喜剧 歌舞 爱情,9.0,108628人
+000166,.jpg,冰川时代,Ice Age,冰河世纪  /  冰原历险记,卡洛斯·沙尔丹哈 Carlos Saldanha / 克里斯·韦奇 Chris Wedge   ,主演...,2002 , 美国 , 喜剧 动画 冒险,8.5,327257人
+000167,.jpg,魂断蓝桥,Waterloo Bridge,滑铁卢桥  /  断桥残梦,Mervyn LeRoy   ,Vivien Leigh / Robert Taylor / Lucile Watson,1940 , 美国 , 剧情 战争 爱情,8.8,148603人
+000168,.jpg,我是山姆,I Am Sam,不一样的爸爸(港)  /  他不笨，他是我爸爸(台),杰茜·尼尔森 Jessie Nelson   ,Sean Penn / Dakota Fanning / Mi...,2001 , 美国 , 剧情 家庭,8.8,128055人
+000169,.jpg,穿越时空的少女,時をかける少女,跳跃吧！时空少女(台)  /  Toki o kakeru shôjo,细田守 Mamoru Hosoda   ,仲里依纱 Riisa Naka / 石田卓也 Takuya...,2006 , 日本 , 剧情 爱情 科幻 动画,8.6,217273人
+000170,.jpg,猜火车,Trainspotting,迷幻列车(港)  /  定位的火车,丹尼·博伊尔 Danny Boyle   ,伊万·麦克格雷格 Ewan McGregor / ...,1996 , 英国 , 犯罪 剧情,8.5,281556人
+000171,.jpg,人工智能,Artificial Intelligence: AI,AI人工智慧,史蒂文·斯皮尔伯格 Steven Spielberg   ,海利·乔·奥斯蒙 Haley...,2001 , 美国 , 冒险 剧情 科幻,8.6,225956人
+000172,.jpg,头脑特工队,Inside Out,玩转脑朋友(港)  /  脑筋急转弯(台),彼特·道格特 Pete Docter / 罗纳尔多·德尔·卡门 Ronaldo Del Carmen  &nb..,.,2015 , 美国 , 喜剧 动画 冒险,8.7,285464人
+000173,.jpg,被解救的姜戈,Django Unchained,被解放的姜戈  /  决杀令(台),昆汀·塔伦蒂诺 Quentin Tarantino   ,杰米·福克斯 Jamie Foxx /...,2012 , 美国 , 剧情 动作 西部 冒险,8.6,306746人
+000174,.jpg,爆裂鼓手,Whiplash,鼓动真我(港)  /  进击的鼓手(台),达米安·沙泽勒 Damien Chazelle   ,迈尔斯·特勒 Miles Teller /...,2014 , 美国 , 剧情 音乐,8.6,282640人
+000175,.jpg,未麻的部屋,Perfect Blue,蓝色的恐惧  /  蓝色恐惧,今敏 Satoshi Kon   ,岩男润子 Junko Iwao / 松本梨香 Rica Matsu...,1997 , 日本 , 动画 奇幻 惊悚,8.9,122003人
+000176,.jpg,你的名字。,君の名は。,你的名字  /  君之名,新海诚 Makoto Shinkai   ,神木隆之介 Ryûnosuke Kamiki / 上...,2016 , 日本 , 剧情 爱情 动画,8.4,608652人
+000177,.jpg,无敌破坏王,Wreck-It Ralph,破坏王拉尔夫  /  破坏王大冒险,瑞奇·莫尔 Rich Moore   ,约翰·C·赖利 John C. Reilly / 萨拉...,2012 , 美国 , 喜剧 动画 奇幻 冒险,8.7,247524人
+000178,.jpg,罗生门,羅生門,Rashomon,黑泽明 Akira Kurosawa   ,三船敏郎 Toshirô Mifune / 千秋实 ...,1950 , 日本 , 犯罪 剧情 悬疑,8.7,152479人
+000179,.jpg,浪潮,Die Welle,恶魔教室(台)  /  白恤暴潮(港),丹尼斯·甘塞尔 Dennis Gansel   ,尤尔根·沃格尔 Jürgen Vogel ...,2008 , 德国 , 剧情 惊悚,8.7,154994人
+000180,.jpg,阿飞正传,阿飛正傳,Days of Being Wild,王家卫 Kar Wai Wong   ,张国荣 Leslie Cheung / 张曼玉 Maggie C...,1990 , 香港 , 犯罪 剧情 爱情,8.5,252384人
+000181,.jpg,香水,Perfume: The Story of a Murderer,香水：一个杀人犯的故事  /  香水：一个谋杀犯的故事,汤姆·提克威 Tom Tykwer   ,本·卫肖 Ben Whishaw / 艾伦·瑞克...,2006 , 德国 法国 西班牙 美国 , 剧情 犯罪 奇幻,8.4,321818人
+000182,.jpg,朗读者,The Reader,为爱朗读(台)  /  读爱(港),史蒂芬·戴德利 Stephen Daldry   ,凯特·温丝莱特 Kate Winslet ...,2008 , 美国 德国 , 剧情 爱情,8.5,309401人
+000183,.jpg,房间,Room,不存在的房间(台)  /  抖室(港),伦尼·阿伯拉罕森 Lenny Abrahamson   ,布丽·拉尔森 Brie Larson...,2015 , 爱尔兰 加拿大 英国 美国 , 剧情 家庭,8.8,193256人
+000184,.jpg,模仿游戏,The Imitation Game,解码游戏(港)  /  模拟游戏,莫腾·泰杜姆 Morten Tyldum   ,本尼迪克特·康伯巴奇 Benedict C...,2014 , 英国 美国 , 剧情 传记 战争 同性,8.6,307281人
+000185,.jpg,恐怖游轮,Triangle,汪洋血迷宮(台)  /  轮回三角,克里斯托弗·史密斯 Christopher Smith   ,梅利莎·乔治 Melissa ...,2009 , 英国 澳大利亚 , 剧情 悬疑 惊悚,8.4,391719人
+000186,.jpg,一个叫欧维的男人决定去死,En man som heter Ove,明天别再来敲门(台)  /  想死冇咁易(港),汉内斯·赫尔姆 Hannes Holm   ,罗夫·拉斯加德 Rolf Lassgård...,2015 , 瑞典 , 剧情,8.8,157985人
+000187,.jpg,可可西里,,Kekexili: Mountain Patrol,陆川 Chuan Lu   ,多布杰 Duobujie / 张磊 Lei Zhang / 亓亮 Qi L...,2004 , 中国大陆 香港 , 剧情 犯罪,8.7,152283人
+000188,.jpg,忠犬八公物语,ハチ公物語,八千公物语  /  阿八的故事,Seijirô Kôyama   ,山本圭 Kei Yamamoto / 井川比佐志 Hisa...,1987 , 日本 , 剧情,9.1,77822人
+000189,.jpg,魔女宅急便,魔女の宅急便,魔女琪琪(台)  /  小魔女限时专送,宫崎骏 Hayao Miyazaki   ,高山南 Minami Takayama / 佐久间玲 Re...,1989 , 日本 , 动画 奇幻 冒险,8.5,236394人
+000190,.jpg,战争之王,Lord of War,军火之王(台 / 港),安德鲁·尼科尔 Andrew Niccol   ,尼古拉斯·凯奇 Nicolas Cage /...,2005 , 美国 法国 , 剧情 犯罪,8.6,199929人
+000191,.jpg,一次别离,جدایی نادر از سیمین,分居风暴(台)  /  伊朗式分居(港),阿斯哈·法哈蒂  Asghar Farhadi   ,佩曼·莫阿迪 Peyman Moadi /...,2011 , 伊朗 法国 , 剧情 家庭,8.7,152593人
+000192,.jpg,哪吒闹海,,Prince Nezha's Triumph Against Dragon King  /  Nezha nao hai,严定宪 Dingxian Yan / 王树忱 Shuchen Wang   ,梁正晖 Zhenghui ...,1979 , 中国大陆 , 冒险 动画 奇幻,8.9,101191人
+000193,.jpg,完美陌生人,Perfetti sconosciuti,完美谎情(港)  /  波动的信息分享,保罗·格诺维瑟 Paolo Genovese   ,马可·贾利尼 Marco Giallini ...,2016 , 意大利 , 剧情 喜剧,8.6,260579人
+000194,.jpg,谍影重重,The Bourne Identity,叛谍追击(港)  /  神鬼认证(台),道格·里曼 Doug Liman   ,马特·达蒙 Matt Damon / 弗兰卡·波坦...,2002 , 美国 德国 捷克 , 动作 悬疑 惊悚,8.5,227964人
+000195,.jpg,追随,Following,跟踪(台)  /  致命追踪,克里斯托弗·诺兰 Christopher Nolan   ,杰里米·西奥伯德 Jeremy...,1998 , 英国 , 犯罪 悬疑 惊悚,8.9,95740人
+000196,.jpg,谍影重重2,The Bourne Supremacy,叛谍追击2：机密圈套(港)  /  神鬼认证：神鬼疑云(台),保罗·格林格拉斯 Paul Greengrass   ,马特·达蒙 Matt Damon / ...,2004 , 美国 德国 , 动作 悬疑 惊悚,8.6,189976人
+000197,.jpg,地球上的星星,Taare Zameen Par,心中的小星星(台)  /  每一个孩子都是特别的,阿米尔·汗 Aamir Khan   ,达席尔·萨法瑞 Darsheel Safary / 阿...,2007 , 印度 , 剧情 儿童 家庭,8.9,102225人
+000198,.jpg,牯岭街少年杀人事件,牯嶺街少年殺人事件,A Brighter Summer Day,杨德昌 Edward Yang   ,张震 Chen Chang / 杨静怡 Lisa Yang / 张...,1991 , 台湾 , 剧情 犯罪,8.8,128382人
+000199,.jpg,撞车,Crash,冲击效应  /  冲撞,保罗·哈吉斯 Paul Haggis   ,桑德拉·布洛克 Sandra Bullock / ...,2004 , 美国 德国 , 犯罪 剧情,8.6,198763人
+000200,.jpg,黑客帝国3：矩阵革命,The Matrix Revolutions,骇客任务完结篇：最后战役  /  廿二世纪杀人网络3：惊变世纪,Andy Wachowski / Larry Wachowski   ,Keanu Reeves / Laurence F...,2003 , 美国 澳大利亚 , 动作 科幻,8.6,188896人
+000201,.jpg,惊魂记,Psycho,精神病患者  /  触目惊心,Alfred Hitchcock   ,Janet Leigh / Anthony Perkins / Vera Miles,1960 , 美国 , 悬疑 惊悚 恐怖,8.9,102302人
+000202,.jpg,青蛇,,Green Snake,徐克 Hark Tsui   ,张曼玉 Maggie Cheung / 王祖贤 Joey Wang / ...,1993 , 香港 , 剧情 奇幻 古装,8.5,265583人
+000203,.jpg,梦之安魂曲,Requiem for a Dream,噩梦挽歌(台)  /  迷上瘾(港),达伦·阿伦诺夫斯基 Darren Aronofsky   ,艾伦·伯斯汀 Ellen Bur...,2000 , 美国 , 剧情,8.7,129619人
+000204,.jpg,海街日记,海街diary,海街女孩日记(港)  /  Kamakura Diary,是枝裕和 Hirokazu Koreeda   ,绫濑遥 Haruka Ayase / 长泽雅美 M...,2015 , 日本 , 剧情 家庭,8.7,172443人
+000205,.jpg,小萝莉的猴神大叔,Bajrangi Bhaijaan,娃娃返乡任务(台)  /  宝莱坞之钢铁奶爸(台),卡比尔·汗 Kabir Khan   ,萨尔曼·汗 Salman Khan / 哈莎莉·马...,2015 , 印度 , 剧情 喜剧 动作,8.5,214589人
+000206,.jpg,再次出发之纽约遇见你,Begin Again,再次出发  /  歌曲改变人生,约翰·卡尼 John Carney   ,凯拉·奈特莉 Keira Knightley / 马克...,2013 , 美国 , 喜剧 爱情 音乐,8.5,209281人
+000207,.jpg,新龙门客栈,新龍門客棧,New Dragon Gate Inn,李惠民 Raymond Lee   ,张曼玉 Maggie Cheung / 林青霞 Brigitte ...,1992 , 香港 中国大陆 , 剧情 动作 武侠 古装,8.5,222035人
+000208,.jpg,步履不停,歩いても 歩いても,横山家之味(港)  /  步伐不停,是枝裕和 Hirokazu Koreeda   ,阿部宽 Hiroshi Abe / 夏川结衣 Yu...,2008 , 日本 , 剧情 家庭,8.8,110452人
+000209,.jpg,源代码,Source Code,启动原始码(台)  /  危机解密(港),邓肯·琼斯 Duncan Jones   ,杰克·吉伦哈尔 Jake Gyllenhaal / ...,2011 , 美国 加拿大 , 科幻 悬疑 惊悚,8.4,465689人
+000210,.jpg,终结者2：审判日,Terminator 2: Judgment Day,终结者2  /  终结者2：末日审判,詹姆斯·卡梅隆 James Cameron   ,阿诺·施瓦辛格 Arnold Schwarz...,1991 , 美国 法国 , 动作 科幻,8.6,167932人
+000211,.jpg,东京物语,東京物語,东京故事  /  Tokyo Story,小津安二郎 Yasujirô Ozu   ,笠智众 Chishû Ryû / 原节...,1953 , 日本 , 剧情 家庭,9.2,62144人
+000212,.jpg,初恋这件小事,สิ่งเล็กเล็กที่เรียกว่า...รัก,初恋那件小事(港)  /  暗恋那点小事,普特鹏·普罗萨卡·那·萨克那卡林 Puttipong Promsaka Na Sakolnakorn / 华森·波克彭..,.,2010 , 泰国 , 剧情 喜剧 爱情,8.3,544400人
+000213,.jpg,疯狂的石头,,Crazy Stone,宁浩 Hao Ning   ,郭涛 Tao Guo / 刘桦 Hua Liu / 连晋 Teddy Lin,2006 , 中国大陆 香港 , 喜剧 犯罪,8.3,380155人
+000214,.jpg,城市之光,City Lights,City Lights: A Comedy Romance in Pantomime  /  Lichter der Großstadt,Charles Chaplin   ,查理·卓别林 Charles Chaplin / 弗吉尼亚·...,1931 , 美国 , 喜剧 剧情 爱情,9.2,54980人
+000215,.jpg,绿里奇迹,The Green Mile,绿色奇迹(台)  /  绿色英里,Frank Darabont   ,汤姆·汉克斯 Tom Hanks / 大卫·摩斯 David M...,1999 , 美国 , 犯罪 剧情 奇幻 悬疑,8.7,125861人
+000216,.jpg,爱在午夜降临前,Before Midnight,爱在午夜希腊时(台)  /  情约半生(港),理查德·林克莱特 Richard Linklater   ,伊桑·霍克 Ethan Hawke ...,2013 , 美国 , 剧情 爱情,8.8,140485人
+000217,.jpg,无耻混蛋,Inglourious Basterds,恶棍特工(台)  /  希魔撞正杀人狂(港),Quentin Tarantino   ,布拉德·皮特 Brad Pitt / 梅拉尼·罗兰 M...,2009 , 美国 德国 , 剧情 犯罪,8.5,258347人
+000218,.jpg,末路狂花,Thelma & Louise,塞尔玛与路易丝  /  末路狂花,雷德利·斯科特 Ridley Scott   ,吉娜·戴维斯 Geena Davis / 苏...,1991 , 美国 法国 , 犯罪 剧情 惊悚,8.7,121968人
+000219,.jpg,这个男人来自地球,The Man from Earth,地球不死人(港)  /  这个人来自洞穴,理查德·沙因克曼 Richard Schenkman   ,大卫·李·史密斯 David ...,2007 , 美国 , 剧情 科幻,8.5,214196人
+000220,.jpg,秒速5厘米,秒速5センチメートル,秒速五厘米  /  秒速5公分,新海诚 Makoto Shinkai   ,水桥研二 Kenji Mizuhashi / 近藤好美 ...,2007 , 日本 , 动画 剧情 爱情,8.3,357487人
+000221,.jpg,勇闯夺命岛,The Rock,石破天惊  /  绝地任务,迈克尔·贝 Michael Bay   ,肖恩·康纳利 Sean Connery / 尼古拉...,1996 , 美国 , 动作 冒险,8.6,162727人
+000222,.jpg,E.T. 外星人,E.T.: The Extra-Terrestrial,外星人E.T.  /  外星人,Steven Spielberg   ,Henry Thomas / Dee Wallace / Robert MacNa...,1982 , 美国 , 剧情 科幻,8.5,182177人
+000223,.jpg,变脸,Face/Off,夺面双雄,吴宇森 John Woo   ,约翰·特拉沃尔塔 John Travolta / 尼古拉斯...,1997 , 美国 , 动作 科幻 犯罪 惊悚,8.4,244790人
+000224,.jpg,彗星来的那一夜,Coherence,相干性  /  相干效应,詹姆斯·沃德·布柯特 James Ward Byrkit   ,艾米丽·芭尔多尼 Em...,2013 , 美国 英国 , 科幻 悬疑 惊悚,8.4,226362人
+000225,.jpg,碧海蓝天,Le grand bleu,碧海情深  /  夜海倾情,Luc Besson   ,让-马克·巴尔 Jean-Marc Barr / 让·雷诺 Jean Re...,1988 , 法国 美国 意大利 , 剧情 爱情,8.7,116371人
+000226,.jpg,卡萨布兰卡,Casablanca,北非谍影(港)  /  卡萨布兰卡,Michael Curtiz   ,亨弗莱·鲍嘉 Humphrey Bogart / 英格丽·褒曼...,1942 , 美国 , 剧情 爱情 战争,8.6,143052人
+000227,.jpg,黄金三镖客,Il buono il brutto il cattivo.,好·坏·丑  /  独行侠决斗地狱门(港),Sergio Leone   ,Clint Eastwood / Eli Wallach / Lee Van Cleef,1966 , 意大利 西班牙 西德 , 冒险 西部,9.1,61480人
+000228,.jpg,发条橙,A Clockwork Orange,发条桔子  /  发条橙子,Stanley Kubrick   ,Malcolm McDowell / Patrick Magee / Michael...,1971 , 英国 美国 , 犯罪 剧情 科幻,8.5,211358人
+000229,.jpg,聚焦,Spotlight,焦点追击(港)  /  惊爆焦点(台),托马斯·麦卡锡 Thomas McCarthy   ,马克·鲁弗洛 Mark Ruffalo /...,2015 , 美国 , 剧情 传记,8.8,151680人
+000230,.jpg,血钻,Blood Diamond,血腥钻石  /  滴血钻石,爱德华·兹威克 Edward Zwick   ,莱昂纳多·迪卡普里奥 Leonardo ...,2006 , 美国 德国 , 剧情 惊悚 冒险,8.6,161457人
+000231,.jpg,美国丽人,American Beauty,美丽有罪(港)  /  美国心·玫瑰情(台),萨姆·门德斯 Sam Mendes   ,凯文·史派西 Kevin Spacey / 安妮特...,1999 , 美国 , 剧情 爱情 家庭,8.5,212526人
+000232,.jpg,国王的演讲,The King's Speech,皇上无话儿(港)  /  王者之声：宣战时刻(台),汤姆·霍珀 Tom Hooper   ,柯林·菲尔斯 Colin Firth / 杰弗里·...,2010 , 英国 澳大利亚 美国 , 剧情 传记 历史,8.3,390431人
+000233,.jpg,海盗电台,The Boat That Rocked,出位乐人谷(港)  /  海盗电波,理查德·柯蒂斯 Richard Curtis   ,比尔·奈伊 Bill Nighy / 肯尼...,2009 , 英国 德国 法国 , 剧情 喜剧 音乐,8.6,182372人
+000234,.jpg,非常嫌疑犯,The Usual Suspects,刺激惊爆点(台)  /  普通嫌疑犯,布莱恩·辛格 Bryan Singer   ,史蒂芬·鲍德温 Stephen Baldwin /...,1995 , 德国 美国 , 剧情 犯罪 悬疑 惊悚,8.6,139545人
+000235,.jpg,荒野生存,Into the Wild,浪荡天涯(港)  /  阿拉斯加之死(台),西恩·潘 Sean Penn   ,埃米尔·赫斯基 Emile Hirsch / 马西娅·...,2007 , 美国 , 冒险 传记 剧情,8.6,146286人
+000236,.jpg,黑鹰坠落,Black Hawk Down,黑鹰降落  /  黑鹰计划,雷德利·斯科特 Ridley Scott   ,乔什·哈奈特 Josh Hartnett / ...,2001 , 美国 , 动作 历史 战争,8.6,141428人
+000237,.jpg,我爱你,그대를 사랑합니다,爱你  /  爱，是一生相伴(台),秋昌民 Chang-min Choo   ,宋在河 Jae-ho Song / 李顺载 Soon-jae...,2011 , 韩国 , 剧情 爱情,9.0,70872人
+000238,.jpg,千钧一发,Gattaca,变种异煞  /  自然人,安德鲁·尼科尔 Andrew Niccol   ,伊桑·霍克 Ethan Hawke / 乌玛...,1997 , 美国 , 剧情 科幻 惊悚,8.7,107891人
+000239,.jpg,英国病人,The English Patient,英伦情人(台)  /  别问我是谁(港),安东尼·明格拉 Anthony Minghella   ,拉尔夫·费因斯 Ralph Fien...,1996 , 美国 英国 , 爱情 剧情 战争,8.5,194060人
+000240,.jpg,天书奇谭,,The Legend of Sealed Book  /  Secrets of the Heavenly Book,王树忱 Shuchen Wang / 钱运达 Yunda Qian   ,丁建华 Jianhua Din...,1983 , 中国大陆 , 动画,9.1,61180人
+000241,.jpg,遗愿清单,The Bucket List,玩转身前事(港)  /  一路玩到挂(台),罗伯·莱纳 Rob Reiner   ,杰克·尼科尔森 Jack Nicholson / 摩根...,2007 , 美国 , 冒险 喜剧 剧情,8.5,156798人
+000242,.jpg,2001太空漫游,2001: A Space Odyssey,2001：星际漫游  /  2001：太空奥德赛,斯坦利·库布里克 Stanley Kubrick   ,凯尔·杜拉 Keir Dullea / ...,1968 , 英国 美国 , 科幻 惊悚 冒险,8.7,116206人
+000243,.jpg,荒岛余生,Cast Away,浩劫重生(台)  /  劫后重生(港),罗伯特·泽米吉斯 Robert Zemeckis   ,汤姆·汉克斯 Tom Hanks / ...,2000 , 美国 , 冒险 剧情,8.5,160063人
+000244,.jpg,迁徙的鸟,Le peuple migrateur,鸟的迁徙  /  鸟与梦飞行,雅克·贝汉 Jacques Perrin / 雅克·克鲁奥德 Jacques Cluzaud   ,主演:...,2001 , 法国 德国 意大利 西班牙 瑞士 , 纪录片,9.1,57062人
+000245,.jpg,勇士,Warrior,勇者无敌(台)  /  钢铁斗士(港),加文·欧康诺 Gavin O'Connor   ,汤姆·哈迪 Tom Hardy / 乔尔·...,2011 , 美国 , 剧情 运动 家庭,8.9,98407人
+000246,.jpg,枪火,鎗火,The Mission,杜琪峰 Johnnie To   ,吴镇宇 Francis Ng / 任达华 Simon Yam / ...,1999 , 香港 , 剧情 动作 犯罪,8.7,116499人
+000247,.jpg,海蒂和爷爷,Heidi,飘零燕(港)  /  海蒂,阿兰·葛斯彭纳 Alain Gsponer   ,阿努克·斯特芬 Anuk Steffen /...,2015 , 德国 瑞士 南非 , 剧情 冒险 家庭,9.0,67081人
+000248,.jpg,叫我第一名,Front of the Class,站在教室前  /  讲台前的我,彼得·维纳 Peter Werner   ,詹姆斯·沃克 James Wolk / 特里特·...,2008 , 美国 , 剧情 传记,8.6,122730人
+000249,.jpg,燕尾蝶,スワロウテイル,Swallowtail Butterfly  /  Suwarôteiru,岩井俊二 Shunji Iwai   ,恰拉 Chara / 伊藤步 Ayumi Ito / 三上...,1996 , 日本 , 犯罪 剧情,8.6,117108人
+000250,.jpg,穆赫兰道,Mulholland Dr.,穆荷兰大道(台)  /  失忆大道(港),大卫·林奇 David Lynch   ,娜奥米·沃茨 Naomi Watts / 劳拉·哈...,2001 , 法国 美国 , 剧情 悬疑 惊悚,8.3,266223人

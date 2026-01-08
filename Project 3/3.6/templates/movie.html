@@ -1,0 +1,40 @@
+<style>
+    .pic {display:inline-block;width:60px; vertical-align:top;margin:5px;}
+    .info { display:inline-block; }
+    .liClass { list-style: none; margin:20px;}
+    .link {border: 1px solid ;}
+    a:link { color: blue; text-decoration: none; }
+    a:visited { color: blue; text-decoration: none; }
+</style>
+<div>
+    <ul>
+        {% for m in movies %}
+        <li class="liClass">
+            <div class="pic">
+                <img width="50" height="50" src='images/{{m["mImage"]}}'>
+            </div>
+            <div class="info">
+                <div class="title">
+                    <h3 style="display:inline-block">{{m["mTitle"]}}</h3>
+                </div>
+            </div>
+        </li>
+        {% endfor %}
+    </ul>
+</div>
+<div align="center" class="paging">
+    <a href="/?pageIndex=1" class="link">第一页</a>
+    {% if pageIndex > 1 %}
+    <a href="/?pageIndex={{pageIndex-1}}" class="link">前一页</a>
+    {% else %}
+    <a href="#" class="link">前一页</a>
+    {% endif %}
+    {% if pageIndex < pageCount %}
+    <a href="/?pageIndex={{pageIndex+1}}" class="link">下一页</a>
+    {% else %}
+    <a href="#">下一页</a>
+    {% endif %}
+    <a href="/?pageIndex={{pageCount}}" class="link">末一页</a>
+    <span>Page {{pageIndex}}/{{pageCount}}</span>
+</div>
+</body>
